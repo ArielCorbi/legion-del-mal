@@ -33,3 +33,9 @@ Trilogía Animada del Spider-Verso (Protagonizada por Miles Morales / Shameik Mo
 - Spider-Man: Un nuevo universo (2018)
 - Spider-Man: Cruzando el multiverso (Across the Spider-Verse) (2023)
 - Spider-Man: Beyond the Spider-Verse (Estreno previsto para 2027)
+
+## Conocidos
+- Miles Morales: El Spider-Man de otra dimensión (Tierra-1610) que se convierte en su compañero y protegido.
+- Harry Osborn: Su mejor amigo (e hijo de su peor enemigo), quien en ocasiones adopta el manto del Duende Verde u Hobgoblin.
+- J. Jonah Jameson: El colérico director del periódico Daily Bugle, jefe de Peter y su mayor difamador público (aunque a veces colaboran).
+- Los Vengadores: Compañeros de equipo en diversas etapas, destacando su cercanía histórica con Tony Stark (Iron Man) en el cine y los cómics.
