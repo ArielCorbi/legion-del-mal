@@ -4,7 +4,7 @@ on: push
 
 jobs: 
     reporte-de-recltamiento:
-        runs-on: ububntu-latest
+        runs-on: ubuntu-latest
 
         steps:
             - name: El agente se presenta
