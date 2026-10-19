@@ -1,6 +1,7 @@
 name: Reclutamiento de Agente
 
-on: push
+on: 
+  workflow_dispatch:
 
 jobs: 
     reporte-de-recltamiento:
@@ -36,7 +37,7 @@ jobs:
               run: |
                 echo "Reconocimiento del terreno"
                 ls /
-                
+
 
 
 
