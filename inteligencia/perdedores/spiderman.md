@@ -39,3 +39,10 @@ Trilogía Animada del Spider-Verso (Protagonizada por Miles Morales / Shameik Mo
 - Harry Osborn: Su mejor amigo (e hijo de su peor enemigo), quien en ocasiones adopta el manto del Duende Verde u Hobgoblin.
 - J. Jonah Jameson: El colérico director del periódico Daily Bugle, jefe de Peter y su mayor difamador público (aunque a veces colaboran).
 - Los Vengadores: Compañeros de equipo en diversas etapas, destacando su cercanía histórica con Tony Stark (Iron Man) en el cine y los cómics.
+
+## Estrategia recomendada
+
+**Mantener a Batman en Gotham a toda costa durante operaciones importantes.**
+El Joker es nuestra mejor herramienta para esto: Batman no puede ignorar al Joker en Gotham. Si Batman sale de Gotham y se involucra en una misión de la Legión, las probabilidades de fracaso aumentan un 60%.
+
+**NUNCA subestimar a Batman. NUNCA.**
